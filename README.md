@@ -1,4 +1,4 @@
-# Computer Vision Systems – Lab Exercises (AGH AiR, 2nd Year)
+# Computer Vision Systems – Lab Exercises
 
 This repository contains my lab work from the course **Systemy Wizyjne (Computer Vision Systems)** during the second year of Automation and Robotics at AGH University of Science and Technology.
 
